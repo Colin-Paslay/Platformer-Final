@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://bertf3nkwot0a"
+path="res://.godot/imported/RETRO Jump Up Bounce Long 03.wav-86b2687f090ccb579fa0b24d9f4da727.sample"
+
+[deps]
+
+source_file="res://Free_Game_Sound_FX (1)/FREE_Game_Sound_FX_Pack/GameBurp FREE Game Sound FX Pack - WAV/RETRO Jump Up Bounce Long 03.wav"
+dest_files=["res://.godot/imported/RETRO Jump Up Bounce Long 03.wav-86b2687f090ccb579fa0b24d9f4da727.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=0

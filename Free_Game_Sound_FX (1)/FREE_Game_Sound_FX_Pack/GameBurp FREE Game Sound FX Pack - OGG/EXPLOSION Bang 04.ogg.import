@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://py5deg2585un"
+path="res://.godot/imported/EXPLOSION Bang 04.ogg-046b71cfad5a496d45d5159e4593e34f.oggvorbisstr"
+
+[deps]
+
+source_file="res://Free_Game_Sound_FX (1)/FREE_Game_Sound_FX_Pack/GameBurp FREE Game Sound FX Pack - OGG/EXPLOSION Bang 04.ogg"
+dest_files=["res://.godot/imported/EXPLOSION Bang 04.ogg-046b71cfad5a496d45d5159e4593e34f.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

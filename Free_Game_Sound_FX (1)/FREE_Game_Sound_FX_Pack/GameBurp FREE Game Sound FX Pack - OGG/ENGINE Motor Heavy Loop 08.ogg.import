@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://dbxfm0gpcvyms"
+path="res://.godot/imported/ENGINE Motor Heavy Loop 08.ogg-186a5508ff5eb9a274ad6cb620c09159.oggvorbisstr"
+
+[deps]
+
+source_file="res://Free_Game_Sound_FX (1)/FREE_Game_Sound_FX_Pack/GameBurp FREE Game Sound FX Pack - OGG/ENGINE Motor Heavy Loop 08.ogg"
+dest_files=["res://.godot/imported/ENGINE Motor Heavy Loop 08.ogg-186a5508ff5eb9a274ad6cb620c09159.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://c8xn0gqrhxc7d"
+path="res://.godot/imported/BOUNCE Twang Spring 13.wav-8784e7130575dcd0cf6f2d665a3c9d5e.sample"
+
+[deps]
+
+source_file="res://Free_Game_Sound_FX (1)/FREE_Game_Sound_FX_Pack/GameBurp FREE Game Sound FX Pack - WAV/BOUNCE Twang Spring 13.wav"
+dest_files=["res://.godot/imported/BOUNCE Twang Spring 13.wav-8784e7130575dcd0cf6f2d665a3c9d5e.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=0

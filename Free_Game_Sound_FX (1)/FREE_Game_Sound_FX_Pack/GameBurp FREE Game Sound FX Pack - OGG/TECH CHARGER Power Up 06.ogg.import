@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://bmkc1lkdc5nbb"
+path="res://.godot/imported/TECH CHARGER Power Up 06.ogg-903be3c05bb71c88bcfc7373b624da0b.oggvorbisstr"
+
+[deps]
+
+source_file="res://Free_Game_Sound_FX (1)/FREE_Game_Sound_FX_Pack/GameBurp FREE Game Sound FX Pack - OGG/TECH CHARGER Power Up 06.ogg"
+dest_files=["res://.godot/imported/TECH CHARGER Power Up 06.ogg-903be3c05bb71c88bcfc7373b624da0b.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

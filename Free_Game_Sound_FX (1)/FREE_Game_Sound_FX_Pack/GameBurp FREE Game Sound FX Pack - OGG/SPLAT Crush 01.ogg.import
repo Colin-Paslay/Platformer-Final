@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://cop3agflov3od"
+path="res://.godot/imported/SPLAT Crush 01.ogg-7d3fff64ad752fcb20ad83f813e2ad96.oggvorbisstr"
+
+[deps]
+
+source_file="res://Free_Game_Sound_FX (1)/FREE_Game_Sound_FX_Pack/GameBurp FREE Game Sound FX Pack - OGG/SPLAT Crush 01.ogg"
+dest_files=["res://.godot/imported/SPLAT Crush 01.ogg-7d3fff64ad752fcb20ad83f813e2ad96.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

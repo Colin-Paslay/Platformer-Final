@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://cq13sh322s30v"
+path="res://.godot/imported/SLIDER Swipe Drag Movement Stone 08.ogg-138158a7f09226caaf7eaf39367634fa.oggvorbisstr"
+
+[deps]
+
+source_file="res://Free_Game_Sound_FX (1)/FREE_Game_Sound_FX_Pack/GameBurp FREE Game Sound FX Pack - OGG/SLIDER Swipe Drag Movement Stone 08.ogg"
+dest_files=["res://.godot/imported/SLIDER Swipe Drag Movement Stone 08.ogg-138158a7f09226caaf7eaf39367634fa.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

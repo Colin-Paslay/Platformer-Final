@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://bnb6djcqqacdx"
+path="res://.godot/imported/TECH INTERFACE Computer Terminal Beeps Negative 03.wav-c8ecbbf101640450194e5e22a644b91a.sample"
+
+[deps]
+
+source_file="res://Free_Game_Sound_FX (1)/FREE_Game_Sound_FX_Pack/GameBurp FREE Game Sound FX Pack - WAV/TECH INTERFACE Computer Terminal Beeps Negative 03.wav"
+dest_files=["res://.godot/imported/TECH INTERFACE Computer Terminal Beeps Negative 03.wav-c8ecbbf101640450194e5e22a644b91a.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=0

@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://ctiqr2xdf4sof"
+path="res://.godot/imported/ELECTRIC Shock Zap Short 03.wav-a3bf3c31c8cb970ab2b15a5d29e10c4c.sample"
+
+[deps]
+
+source_file="res://Free_Game_Sound_FX (1)/FREE_Game_Sound_FX_Pack/GameBurp FREE Game Sound FX Pack - WAV/ELECTRIC Shock Zap Short 03.wav"
+dest_files=["res://.godot/imported/ELECTRIC Shock Zap Short 03.wav-a3bf3c31c8cb970ab2b15a5d29e10c4c.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=0

@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://c8yyl54sin5i2"
+path="res://.godot/imported/IMPACT Metal Blade Clang 01.ogg-233f9d48f5966f3441e10e04b9a22ea5.oggvorbisstr"
+
+[deps]
+
+source_file="res://Free_Game_Sound_FX (1)/FREE_Game_Sound_FX_Pack/GameBurp FREE Game Sound FX Pack - OGG/IMPACT Metal Blade Clang 01.ogg"
+dest_files=["res://.godot/imported/IMPACT Metal Blade Clang 01.ogg-233f9d48f5966f3441e10e04b9a22ea5.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

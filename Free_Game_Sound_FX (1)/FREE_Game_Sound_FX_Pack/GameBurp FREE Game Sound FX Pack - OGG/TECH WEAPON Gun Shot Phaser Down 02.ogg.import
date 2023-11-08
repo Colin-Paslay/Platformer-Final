@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://dm4mu16jkj7jh"
+path="res://.godot/imported/TECH WEAPON Gun Shot Phaser Down 02.ogg-4dec3fae3ebf24af22defecb32fac6e5.oggvorbisstr"
+
+[deps]
+
+source_file="res://Free_Game_Sound_FX (1)/FREE_Game_Sound_FX_Pack/GameBurp FREE Game Sound FX Pack - OGG/TECH WEAPON Gun Shot Phaser Down 02.ogg"
+dest_files=["res://.godot/imported/TECH WEAPON Gun Shot Phaser Down 02.ogg-4dec3fae3ebf24af22defecb32fac6e5.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

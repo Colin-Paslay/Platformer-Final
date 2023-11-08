@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://bqmboiyff5bnn"
+path="res://.godot/imported/POP Echo Bouncer 01.wav-4068e74c36ce2c2c4cfac263619fb9ca.sample"
+
+[deps]
+
+source_file="res://Free_Game_Sound_FX (1)/FREE_Game_Sound_FX_Pack/GameBurp FREE Game Sound FX Pack - WAV/POP Echo Bouncer 01.wav"
+dest_files=["res://.godot/imported/POP Echo Bouncer 01.wav-4068e74c36ce2c2c4cfac263619fb9ca.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=0

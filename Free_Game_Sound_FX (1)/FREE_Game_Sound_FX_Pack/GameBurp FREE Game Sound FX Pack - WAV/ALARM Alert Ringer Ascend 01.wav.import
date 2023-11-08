@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://ddelihgpil3ut"
+path="res://.godot/imported/ALARM Alert Ringer Ascend 01.wav-a2404b7a6c7a344618a9810213d19266.sample"
+
+[deps]
+
+source_file="res://Free_Game_Sound_FX (1)/FREE_Game_Sound_FX_Pack/GameBurp FREE Game Sound FX Pack - WAV/ALARM Alert Ringer Ascend 01.wav"
+dest_files=["res://.godot/imported/ALARM Alert Ringer Ascend 01.wav-a2404b7a6c7a344618a9810213d19266.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=0

@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://dc4v11gm0w12l"
+path="res://.godot/imported/BOUNCE Twang Spring 13.ogg-5186210c348650d0e3879ea13ac7f104.oggvorbisstr"
+
+[deps]
+
+source_file="res://Free_Game_Sound_FX (1)/FREE_Game_Sound_FX_Pack/GameBurp FREE Game Sound FX Pack - OGG/BOUNCE Twang Spring 13.ogg"
+dest_files=["res://.godot/imported/BOUNCE Twang Spring 13.ogg-5186210c348650d0e3879ea13ac7f104.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

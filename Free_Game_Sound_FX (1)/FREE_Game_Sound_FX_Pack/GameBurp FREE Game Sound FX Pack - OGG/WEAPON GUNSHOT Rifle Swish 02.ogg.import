@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://b37v3o7h0gxed"
+path="res://.godot/imported/WEAPON GUNSHOT Rifle Swish 02.ogg-78e5f358a28663f37e67b82630f6d5bb.oggvorbisstr"
+
+[deps]
+
+source_file="res://Free_Game_Sound_FX (1)/FREE_Game_Sound_FX_Pack/GameBurp FREE Game Sound FX Pack - OGG/WEAPON GUNSHOT Rifle Swish 02.ogg"
+dest_files=["res://.godot/imported/WEAPON GUNSHOT Rifle Swish 02.ogg-78e5f358a28663f37e67b82630f6d5bb.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

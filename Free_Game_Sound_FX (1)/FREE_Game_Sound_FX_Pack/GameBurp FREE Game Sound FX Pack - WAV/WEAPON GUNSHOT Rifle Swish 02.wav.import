@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://bek865dsqkmpw"
+path="res://.godot/imported/WEAPON GUNSHOT Rifle Swish 02.wav-d2795d6c019082624d489be10fa8bcf2.sample"
+
+[deps]
+
+source_file="res://Free_Game_Sound_FX (1)/FREE_Game_Sound_FX_Pack/GameBurp FREE Game Sound FX Pack - WAV/WEAPON GUNSHOT Rifle Swish 02.wav"
+dest_files=["res://.godot/imported/WEAPON GUNSHOT Rifle Swish 02.wav-d2795d6c019082624d489be10fa8bcf2.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=0
