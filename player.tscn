@@ -103,7 +103,6 @@ animations = [{
 size = Vector2(32, 32)
 
 [node name="Player" type="CharacterBody2D"]
-safe_margin = 0.001
 script = ExtResource("1_qe6k7")
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="."]
@@ -111,9 +110,7 @@ shape = SubResource("RectangleShape2D_ai2hg")
 
 [node name="AnimatedSprite2D" type="AnimatedSprite2D" parent="."]
 sprite_frames = SubResource("SpriteFrames_infff")
-animation = &"dieing"
-frame = 4
-frame_progress = 1.0
+animation = &"walking"
 
 [node name="Area2D" type="Area2D" parent="."]
 

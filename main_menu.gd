@@ -1,7 +1,7 @@
 extends CanvasLayer
 
 func _on_start_game_pressed():
-	pass #Place player in level 1 / load saved game?
+	get_tree().change_scene_to_file("world_1_1.tscn")
 
 func _on_level_select_pressed():
 	pass #Let player choose which level they start in
